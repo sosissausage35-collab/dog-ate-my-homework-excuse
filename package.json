@@ -1,0 +1,1 @@
+{"description":"The funniest excuse a dog gives after being caught eating the homework — one line, picked deterministically from a scored shortlist. Entry for the make.fun bounty 'The Dog Ate My Homework: Funniest Excuse'.","license":"MIT","name":"dog-ate-my-homework-excuse","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
